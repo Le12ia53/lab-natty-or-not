@@ -1,51 +1,28 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Jogo Vorazes apresentado por uma IA Generativa
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A IA foi criada para apresentação de um jogo 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+HeyGen 
+Canva
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Acesso à plataforma: Primeiro, acesse o site ou aplicativo do HeyGen. Você provavelmente precisará criar uma conta ou fazer login.
+Interface do usuário: Familiarize-se com a interface do usuário. Procure por botões como “Criar novo projeto” ou “Novo vídeo”.
+Seleção de templates: Muitas ferramentas de criação de vídeo oferecem templates que você pode usar como ponto de partida. Escolha um template que se alinhe ao estilo e ao propósito do seu vídeo.
+Upload de conteúdo: Importe quaisquer imagens, clipes de vídeo ou áudio que você deseja incluir no seu vídeo. Isso geralmente é feito através de uma opção de “Upload” ou “Importar”.
+Edição do vídeo: Utilize as ferramentas de edição para cortar clipes, ajustar transições, adicionar efeitos e inserir textos. A maioria das plataformas permite arrastar e soltar elementos diretamente na linha do tempo do vídeo.
+Adicionar áudio: Se necessário, adicione música de fundo ou narração. Algumas plataformas também oferecem uma biblioteca de músicas livres de direitos autorais.
+Pré-visualização e ajustes: Visualize seu vídeo várias vezes durante o processo de edição para verificar se tudo está conforme desejado. Faça ajustes conforme necessário.
+Exportar: Exporte o video 
+Edição de vídeo para conta gratuita: o vídeo do HeyGen vem com o logo, porém eu o levei para o Canva e realizei a edição, retirei o logo e coloquei uma imagem de fundo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Link do Video: https://www.youtube.com/watch?v=eaNDYctU-nU
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+O desafio é tornar o contexto o mais natural possível, como se fosse um humano falando.
